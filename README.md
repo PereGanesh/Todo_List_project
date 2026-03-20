@@ -189,11 +189,21 @@ docker-compose up --build
 
 ---
 
-# 📸 Screenshots (Optional)
+# 📸 Screenshots 
 
-*Add screenshots of your application here*
+## 📝 Todo App
+---<img width="1084" height="634" alt="Screenshot 2026-03-20 160747" src="https://github.com/user-attachments/assets/ab17870c-c0db-4a31-8efc-6211fccb414e" />
 
----
+## 🌤️ Weather App
+
+<img width="1288" height="703" alt="Screenshot 2026-03-20 130252" src="https://github.com/user-attachments/assets/4c9f0e7e-f8d1-4e41-bd4f-51a81a34cad1" />
+
+## 🚀 Both
+
+<img width="1208" height="792" alt="Screenshot 2026-03-20 132433" src="https://github.com/user-attachments/assets/e7d61171-ec87-40c3-803f-89e9a99e9662" />
+
+
+
 
 # 📌 Key Highlights
 
