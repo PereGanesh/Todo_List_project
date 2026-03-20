@@ -1,8 +1,6 @@
 const express = require("express");
 const router = express.Router();
 const axios = require("axios");
-
-// Replace with your API key
 const API_KEY = "4c501b332f3ec905766bf178f5e13548";
 
 router.get("/:city", async (req, res) => {

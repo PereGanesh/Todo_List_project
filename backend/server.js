@@ -15,7 +15,6 @@ mongoose.connect("mongodb://mongo:27017/mydb")
 .then(()=>console.log("MongoDB Connected"))
 .catch(err=>console.log(err));
 
-// ✅ BOTH TASKS CONNECTED HERE
 app.use("/api/todos", todoRoutes);
 app.use("/api/weather", weatherRoutes);
 
